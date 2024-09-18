@@ -2,10 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f4f4f9; /* خلفية فاتحة ومريحة */
 }
 
 header {
-    background-color: #f8c36b;
+    background-color: #6c8e8e; /* لون هادئ ومريح */
     color: #fff;
     padding: 1em;
     text-align: center;
@@ -34,16 +35,18 @@ section {
     max-width: 100%;
     height: auto;
     margin: 0.5em;
+    border-radius: 8px; /* زوايا دائرية للصور */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* ظل خفيف للصور */
 }
 
 .social-media a {
     margin: 0 10px;
     text-decoration: none;
-    color: #000;
+    color: #6c8e8e; /* لون مميز وروابط مواقع التواصل */
 }
 
 footer {
-    background-color: #f8c36b;
+    background-color: #6c8e8e; /* نفس لون الهيدر */
     color: #fff;
     text-align: center;
     padding: 1em;
